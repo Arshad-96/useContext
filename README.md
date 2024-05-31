@@ -1,22 +1,18 @@
-# Shop in Style
+# Shopping Cart Application
 
-Welcome to the Shop in Style website! This is a simple e-commerce homepage template built using React and Bootstrap.
-
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+This project is a simple shopping cart application built using React and the Context API. It allows users to view products, increase or decrease the quantity of each product in the cart, and automatically updates the total quantity and total amount in the cart.
 
 ## Features
-- Responsive design for a seamless experience across devices.
-- Interactive product cards with the option to add or remove items from the cart.
-- Dynamic header showcasing different phrases at regular intervals.
-- Modal for displaying added cart items with the total price.
 
-## Installation
+- Display a list of products.
+- Increase or decrease the quantity of each product.
+- Automatically update the total quantity and total amount based on the quantities of products in the cart.
+
+## Setup
+
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shop-in-style.git
+   git clone https://github.com/Arshad-96/useContext.git
+   cd shopping-cart
+   ```
